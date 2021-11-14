@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nissmar
-- 👀 I’m interested in 3D computer vision and computer graphics
+- 👀 I’m interested in computational geometry, computer vision, and computer graphics
 - 🌱 I’m currently studying at Ecole Polytechnique/Master MVA
 
 <!---
