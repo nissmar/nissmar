@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nissmar
 - 👀 I’m interested in computational geometry, computer vision, and computer graphics
-- 🌱 I’m currently studying at Ecole Polytechnique/Master MVA
+- 🌱 I’m currently studying at ENS Paris Saclay/Master MVA
 
 <!---
 nissmar/nissmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
