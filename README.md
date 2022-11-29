@@ -1,4 +1,3 @@
-- 🌱 I’m currently studying at ENS Paris Saclay/Master MVA
 - 👀 I’m interested in computational geometry, computer vision, and computer graphics
 
 
